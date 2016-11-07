@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+İzmir Yüksek Teknoloji Enstitüsü Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Satranç oynamayı, yeni projelerle ilgilenmeyi,
+kendimi denemeyi, zorlamayı seviyorum.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Security things. xP
+Python, PHP(Laravel), GoLang.
+Debian.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[leventanilozen@gmail.com](mailto:leventanilozen@gmail.com)
